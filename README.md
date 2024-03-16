@@ -8,4 +8,11 @@ For those who do not know, rock, paper, scissors is a multiplayer hand game. Aft
 3.Paper is sliced with scissors. (Scissor wins)
 
 
+Below is the view of game website.
+
+![Screenshot (294)](https://github.com/Asp2591/RockPaperScissor/assets/119059499/75a161af-eb26-471b-9e01-8387d217baec)
+
+
+
+
 
