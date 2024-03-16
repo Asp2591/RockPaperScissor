@@ -43,7 +43,7 @@ const result=(userChoice,compChoice)=>{
         msg.innerText=`You lost the game !! ${compChoice} beats ${userChoice}`;
         console.log('You lost ')
         start.style.backgroundColor='red';
-        msg.style.color='black'
+        msg.style.color='white'
 
     } 
     else {
